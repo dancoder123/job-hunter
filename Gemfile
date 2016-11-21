@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+ruby '2.2.4'
+gem 'rails_12factor'
 gem 'timeout'
 gem 'capybara'
 gem 'activerecord-reset-pk-sequence'
