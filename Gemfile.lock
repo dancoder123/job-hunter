@@ -1,6 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
+
+      ruby '2.2.4'  
+      'rails_12factor'
     actionmailer (4.2.5.1)
       actionpack (= 4.2.5.1)
       actionview (= 4.2.5.1)
